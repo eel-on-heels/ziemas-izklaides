@@ -18,7 +18,6 @@
 </p>
 <hr align="center" widht="250" size="10" color="#3333cc">
 
-<img src="design.jpg" width="270" height "30" align="right">
 <p align="justify"><font face="Times New Roman"><i><b>Šajā saitē Jūs varat izīrēt Jums vajadzīgo inventāru:</i></b></font></p>
 <ol>
 <li>Slēpju un nūju komplekts</li>
