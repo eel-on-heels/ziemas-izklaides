@@ -15,14 +15,6 @@
 <h2 align="center"><font color="#339999”>Par sporta veidiem.</font></h2>
 <p align="right"><font face="Times New Roman"><i><b>Lējā Jūs varat iepazīties ar dažādiem ziemas sporta veidiem</i></b></font></p>
 <p>
-<img src="skapis.jpg" width="350" height="350">
-<img src="viesuistaba.jpg" width="350" height="350">
-<img src="virtuve.jpg" width="350" height="350">
-<img src="gulamistaba.jpg" width="350" height="350">
-<img src="vanna.jpg" width="350" height="350">
-<img src="rakovina.jpg" width="350" height="350">
-<img src="kresls.jpg" width="350" height="350">
-<img src="kitchen.jpg" width="350" height="350">
 </p>
 <hr align="center" widht="250" size="10" color="#3333cc">
 
