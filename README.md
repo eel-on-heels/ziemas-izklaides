@@ -1,9 +1,8 @@
 <html>
 <head>
-<meta charset="Window-1257">
 <title>Ziemas sporta veidi!</title>
 </head>
-<body style="background-color:#000" background=“background.jpg">
+<body style="background-color:#023" background=“background.jpg">
 <h1 align="center"><font size="10" color="#660000”>Labdien dārgie draugi!!!</font></h1>
 <hr align="center" widht="100" size="10" color="#cc00cc">
 <img src="mebelj.jpg" width="700" height "60"<p align="right"><font size="5" color="#сс9999"><b>Mēs gribam iepazīt jums ar dažādiem ziemas sporta veidiem!<br>Šeit jūs varēsiet iepazīties ar tādiem sporta veidiem kā:<br>Slēpošana, slidošana, kerlings, bobslejs, hokejs.<br>Par konkrētāku informāciju kontaktējat mūs caur e-pastu.</b></font></p>
@@ -32,5 +31,4 @@
 </font>
 </ul>
 <hr align="center" widht="250" size="10" color="#cc66cc">
-<br>
 </html>
