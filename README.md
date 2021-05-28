@@ -21,7 +21,6 @@
 </ol>
 
 <h3><font>Darba laiks:</font></h3>
-<ul><font size="5" color="#006600">
 <li>Primdiena-piektdiena: 8:00 - 21:00</li>
 <li>Sestdiena-svētdiena: 11:00 - 18:00</li>
 </font>
