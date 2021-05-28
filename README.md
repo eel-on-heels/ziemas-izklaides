@@ -20,7 +20,7 @@
 <li>Ķiveres</li>
 <li>Slēpošanas botas</li>
 </ol>
-<hr widht="200" size="10" color="#cc66cc">
+
 <h3><font>Darba laiks:</font></h3>
 <ul><font size="5" color="#006600">
 <li>Primdiena-piektdiena: 8:00 - 21:00</li>
