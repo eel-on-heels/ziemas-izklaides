@@ -3,7 +3,7 @@
 <title>Ziemas sporta veidi!</title>
 </head>
 <h1>Labdien dārgie draugi!!!</h1>
-<hr><align="center" widht="100" size="10" color="#cc00cc">
+<hr><widht="100" size="10" color="#cc00cc">
 <img src="mebelj.jpg" width="700" height "60"<p align="right"><font size="5" color="#сс9999"><b>Mēs gribam iepazīt jums ar dažādiem ziemas sporta veidiem!<br>Šeit jūs varēsiet iepazīties ar tādiem sporta veidiem kā:<br>Slēpošana, slidošana, kerlings, bobslejs, hokejs.<br>Par konkrētāku informāciju kontaktējat mūs caur e-pastu.</b></font></p>
 <h2>Kā un kāpēc ir jānodarbojās ar sportu ziemā?</h2>
 <p align="justify"><font face="Times New Roman"><b>Cilvēka ķermenis ir radīts kustība.Mazkustīgs dzīves veids, bieži vien kļūst par iemeslu liekajam svaram, arteriālajam asinsspiedienam. Ja jūs nekustaties, jūsu kauli kļūst trausli, muskuļi – sāpīgi, jūs ātri nogurstat, garastāvoklis jums vienmēr ir slikts, bieži vien iestājas depresija. Ja jūs nodarbojaties ar aktīvu sporta veidu, tad jebkura jūsu ķermeņa šūna piepildās ar skābekli, ādas stāvoklis uzlabojas, pazūd iekaisumi, aktivizējas asinsrite, uzlabojas refleksi. Regulāri trenējoties uzlabojas kapilāru darbība.</b></font></p>
