@@ -14,7 +14,8 @@
 <hr align="center" widht="250" size="10" color="#660033">
 <h2 align="center"><font color="#339999”>Par sporta veidiem.</font></h2>
 <p align="right"><font face="Times New Roman"><i><b>Lējā Jūs varat iepazīties ar dažādiem ziemas sporta veidiem</i></b></font></p>
-<hr align="center" widht="250" size="10" color="#3333cc">
+
+  <hr align="center" widht="250" size="10" color="#3333cc">
 <p align="justify"><font face="Times New Roman"><i><b>Šajā saitē Jūs varat izīrēt Jums vajadzīgo inventāru:</i></b></font></p>
 <ol>
 <li>Slēpju un nūju komplekts</li>
