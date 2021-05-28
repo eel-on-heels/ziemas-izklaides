@@ -6,14 +6,13 @@
 <b>Mēs gribam iepazīt jums ar dažādiem ziemas sporta veidiem!<br>Šeit jūs varēsiet iepazīties ar tādiem sporta veidiem kā:<br>Slēpošana, slidošana, kerlings, bobslejs, hokejs.<br>Par konkrētāku informāciju kontaktējat mūs caur e-pastu.</b>
 <h2>Kā un kāpēc ir jānodarbojās ar sportu ziemā?</h2>
 <p align="justify"><font face="Times New Roman"><b>Cilvēka ķermenis ir radīts kustība.Mazkustīgs dzīves veids, bieži vien kļūst par iemeslu liekajam svaram, arteriālajam asinsspiedienam. Ja jūs nekustaties, jūsu kauli kļūst trausli, muskuļi – sāpīgi, jūs ātri nogurstat, garastāvoklis jums vienmēr ir slikts, bieži vien iestājas depresija. Ja jūs nodarbojaties ar aktīvu sporta veidu, tad jebkura jūsu ķermeņa šūna piepildās ar skābekli, ādas stāvoklis uzlabojas, pazūd iekaisumi, aktivizējas asinsrite, uzlabojas refleksi. Regulāri trenējoties uzlabojas kapilāru darbība.</b></font></p>
-<h2><font color="#cc99cc”>Tas ir ļoti interesanti!!!</font></h2>
+<h2><font>Kontakti</font></h2>
 <p><font face="Times New Roman"><b>E-pasts: kornilovaelisabeth@gmail.com</b></font></p>
 <hr" widht="250" size="10" color="#660033">
-<h2><font color="#339999”>Par sporta veidiem.</font></h2>
+<h2><font>Par sporta veidiem.</font></h2>
 <p align="right"><font face="Times New Roman"><i><b>Lējā Jūs varat iepazīties ar dažādiem ziemas sporta veidiem</i></b></font></p>
 
-  <hr align="center" widht="250" size="10" color="#3333cc">
-<p align="justify"><font face="Times New Roman"><i><b>Šajā saitē Jūs varat izīrēt Jums vajadzīgo inventāru:</i></b></font></p>
+<p><b>Šajā saitē Jūs varat izīrēt Jums vajadzīgo inventāru:</b></p>
 <ol>
 <li>Slēpju un nūju komplekts</li>
 <li>Snoubordi</li>
