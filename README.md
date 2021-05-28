@@ -21,11 +21,11 @@
 <li>Slēpošanas botas</li>
 </ol>
 <hr widht="200" size="10" color="#cc66cc">
-<h3><font size="9" color=#CC3399”>Darba laiks:</font></h3>
+<h3><font>Darba laiks:</font></h3>
 <ul><font size="5" color="#006600">
-<li align="center”>Primdiena-piektdiena: 8:00 - 21:00</li>
-<li align="center”>Sestdiena-svētdiena: 11:00 - 18:00</li>
+<li>Primdiena-piektdiena: 8:00 - 21:00</li>
+<li>Sestdiena-svētdiena: 11:00 - 18:00</li>
 </font>
 </ul>
-<hr align="center" widht="250" size="10" color="#cc66cc">
+<hrwidht="250" size="10" color="#cc66cc">
 </html>
