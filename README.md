@@ -1,5 +1,5 @@
 <html>
-<head>
+<body style="background-color:#000" background=“background.jpg">
 <title>Ziemas sporta veidi!</title>
 </head>
 <body style="background-color:#023" background=“background.jpg">
