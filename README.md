@@ -10,7 +10,7 @@
 <p><font face="Times New Roman"><b>E-pasts: kornilovaelisabeth@gmail.com</b></font></p>
 <hr" widht="250" size="10" color="#660033">
 <h2><font>Par sporta veidiem.</font></h2>
-<p align="right"><font face="Times New Roman"><i><b>Lējā Jūs varat iepazīties ar dažādiem ziemas sporta veidiem</i></b></font></p>
+<p align="right"><font face="Times New Roman">Lējā Jūs varat iepazīties ar dažādiem ziemas sporta veidiem</font></p>
 
 <p><b>Šajā saitē Jūs varat izīrēt Jums vajadzīgo inventāru:</b></p>
 <ol>
@@ -20,8 +20,8 @@
 <li>Ķiveres</li>
 <li>Slēpošanas botas</li>
 </ol>
-<hr align="center" widht="200" size="10" color="#cc66cc">
-<h3 align="center"><font size="9" color=#CC3399”>Darba laiks:</font></h3>
+<hr widht="200" size="10" color="#cc66cc">
+<h3><font size="9" color=#CC3399”>Darba laiks:</font></h3>
 <ul><font size="5" color="#006600">
 <li align="center”>Primdiena-piektdiena: 8:00 - 21:00</li>
 <li align="center”>Sestdiena-svētdiena: 11:00 - 18:00</li>
