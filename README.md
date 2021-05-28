@@ -8,7 +8,6 @@
 <p align="justify"><font face="Times New Roman"><b>Cilvēka ķermenis ir radīts kustība.Mazkustīgs dzīves veids, bieži vien kļūst par iemeslu liekajam svaram, arteriālajam asinsspiedienam. Ja jūs nekustaties, jūsu kauli kļūst trausli, muskuļi – sāpīgi, jūs ātri nogurstat, garastāvoklis jums vienmēr ir slikts, bieži vien iestājas depresija. Ja jūs nodarbojaties ar aktīvu sporta veidu, tad jebkura jūsu ķermeņa šūna piepildās ar skābekli, ādas stāvoklis uzlabojas, pazūd iekaisumi, aktivizējas asinsrite, uzlabojas refleksi. Regulāri trenējoties uzlabojas kapilāru darbība.</b></font></p>
 <h2><font>Kontakti</font></h2>
 <p><font face="Times New Roman"><b>E-pasts: kornilovaelisabeth@gmail.com</b></font></p>
-<hr" widht="250" size="10" color="#660033">
 <h2><font>Par sporta veidiem.</font></h2>
 <p align="right"><font face="Times New Roman">Lējā Jūs varat iepazīties ar dažādiem ziemas sporta veidiem</font></p>
 
@@ -27,5 +26,4 @@
 <li>Sestdiena-svētdiena: 11:00 - 18:00</li>
 </font>
 </ul>
-<hrwidht="250" size="10" color="#cc66cc">
 </html>
